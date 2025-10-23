@@ -380,4 +380,3 @@ const total = valides.reduce((s,p)=>s+p.prix,0);
 //4)affichage
     console.log("Produits valides :", valides);
 console.log("Total :", total, "DH");
-]
